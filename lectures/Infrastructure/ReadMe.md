@@ -165,7 +165,7 @@ This `.git/` folder is a special folder Git uses to store metadata. It is not pa
 Let's create a file:
 
 ```sh
-$ echo 'Hello' > hello.txt"
+$ echo 'Hello' > hello.txt
 ```
 
 We can now ask Git what it thinks is going on:
